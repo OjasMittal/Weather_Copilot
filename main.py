@@ -2,6 +2,7 @@
 Leverage OpenWeatherMap API to fetch weather data and parse it using Python.'''
 import requests
 import config
+
 def main():
     # TODO_HL: Get API key from https://openweathermap.org/appid
     # TODO_HL: Get city name from command line
